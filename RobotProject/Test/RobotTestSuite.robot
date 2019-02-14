@@ -23,8 +23,8 @@ MYFirstTest
  MYThirdTest
     Log    I am inside third test  
     
-MY4thTest
-    Log    I am inside 4th test  
+MY5thTest
+    Log    I am inside 5th test  
       
     
 # MySeleniumTest
